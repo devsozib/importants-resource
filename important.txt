@@ -1,0 +1,1 @@
+npm install vue@next vue-loder@next @vue/compiler-scf babel-loader @babel/core @babel/preset-env vue-router@next
